@@ -217,7 +217,7 @@ const LandingPage = () => {
                 </div>
                 {/* Gradient heading */}
                 <h1 className="text-3xl sm:text-5xl md:text-7xl font-extrabold text-center mb-4 bg-gradient-to-r from-indigo-400 via-purple-500 to-indigo-600 bg-clip-text text-transparent drop-shadow-lg">
-                    EventPlanner
+                    Happenly
                 </h1>
                 {/* Tagline with accent */}
                 <p className="text-base sm:text-lg md:text-2xl text-center mb-8 max-w-2xl mx-auto font-medium text-gray-400">
