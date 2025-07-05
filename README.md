@@ -34,7 +34,30 @@ Whether you’re planning a small meetup, a large conference, or anything in bet
 - **Admin/Personalization:** Role-based access, event ownership, and future admin dashboard
 
 ---
+## 📸 Screenshots
 
+### 🌐 Landing Page (Light & Dark Mode)
+
+<p align="center">
+  <img src="## 📸 Screenshots
+
+### 🌐 Landing Page (Light & Dark Mode)
+
+<p align="center">
+  <img src="https://github.com/pranjali7117/Happenly/blob/main/screenshot/Screenshot1.png" width="45%" alt="Landing Page Light Theme"/>
+  &nbsp;
+  <img src="https://github.com/pranjali7117/Happenly/blob/main/screenshot/Screenshot2.png" width="45%" alt="Landing Page Dark Theme"/>
+</p>
+
+### 🗓️ Events Page & Dashboard
+
+<p align="center">
+  <img src="https://github.com/pranjali7117/Happenly/blob/main/screenshot/Screenshot3.png" width="45%" alt="Events Page"/>
+  &nbsp;
+  <img src="https://github.com/pranjali7117/Happenly/blob/main/screenshot/Screenshot4.png" width="45%" alt="Dashboard"/>
+</p>
+
+---
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Tailwind CSS, shadcn/ui, Vite
